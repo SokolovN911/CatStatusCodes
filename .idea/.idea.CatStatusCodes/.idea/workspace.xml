@@ -10,20 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d34635-e3b5-4dc6-9d2f-d26a6eda258b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CatStatusCodes/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CatStatusCodes/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CatStatusCodes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/CatStatusCode.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/CatStatusCodes.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/CatStatusCodes.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/Controllers/CatStatusController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatStatusCodes/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatStatusCodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatStatusCodes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatStatusCodes/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/CatStatusCodes/Properties/launchSettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +120,7 @@
       <workItem from="1719398837776" duration="5012000" />
       <workItem from="1719437562973" duration="605000" />
       <workItem from="1719481553391" duration="11657000" />
-      <workItem from="1719515146415" duration="2349000" />
+      <workItem from="1719515146415" duration="3215000" />
     </task>
     <servers />
   </component>
